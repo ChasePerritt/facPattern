@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/* Name: Chase Perritt
+ * Date: 3 February 2020
+ * File: GeometricShape.cs
+ * Description: This is the ShapeFactory file that returns the type of shape to the main driver.
+ */
 namespace facPattern
 {
     class ShapeFactory

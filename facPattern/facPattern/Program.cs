@@ -3,7 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/* Name: Chase Perritt
+ * Date: 3 February 2020
+ * File: Program.cs
+ * Description: This is the main driver program that runs a menu in a loop.
+ */
 namespace facPattern
 {
     class Program
